@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D087EC14-DAB1-49B0-9ABD-D3B140234224</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sp0nInterview</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AA7671FF1FDE2CC114A6AD3CA9F0E7103D3CFE96</key>
+		<string>https://github.com/fayevCS/sp0nInterview.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sp0nInterview.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AA7671FF1FDE2CC114A6AD3CA9F0E7103D3CFE96</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fayevCS/sp0nInterview.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AA7671FF1FDE2CC114A6AD3CA9F0E7103D3CFE96</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AA7671FF1FDE2CC114A6AD3CA9F0E7103D3CFE96</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sp0nInterview</string>
+		</dict>
+	</array>
+</dict>
+</plist>
